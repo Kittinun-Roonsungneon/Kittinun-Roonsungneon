@@ -16,3 +16,5 @@
 
 # My GitHub Profile
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kittinun-Roonsungneon&layout=compact)](https://github.com/Kittinun-Roonsungneon)
+# Wakatime Stats Card
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kittinun&layout=compact)](https://github.com/Kittinun-Roonsungneon)
