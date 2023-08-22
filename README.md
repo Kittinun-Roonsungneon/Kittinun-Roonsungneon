@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/กิตตินันท์-หรุ่นสูงเนิน-728883179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="กิตตินันท์-หรุ่นสูงเนิน" height="30" width="40" /></a>
-<a href="https://fb.com/kittinun roonsungnoen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kittinun roonsungnoen" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kittinun.roonsungnoen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kittinun roonsungnoen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
